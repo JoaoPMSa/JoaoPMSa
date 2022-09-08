@@ -1,4 +1,4 @@
-# Hello World! Bem vindos ao meu delírio! 😁
+# Hello World!
 
 - 📚 Engenheiro por formação, desenvolvedor por paixão.
 - 👨‍🎓 Cursando Pós em Análise e Desenvolvimento de Sistemas.
