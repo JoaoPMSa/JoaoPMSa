@@ -9,6 +9,12 @@
 
 ##### 🤖 GitHub Activity
 
+ <div style="display: inline_block;" align="center">
+  <a href="https://github.com/JoaoPMSa">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoPMSa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=22"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPMSa&layout=compact&langs_count=7&theme=midnight-purple&border_radius=16"/>
+ </a>
+</div>
  
  ##
   
