@@ -2,7 +2,7 @@
 
 <p align="center">
   💼 Analista de Dados | 📊 Power BI | 🐍 Python Developer <br>
-  🎯 Apaixonado por transformar dados em decisões
+  🎯 Transformando dados em decisões
 </p>
 
 ---
@@ -43,4 +43,4 @@
 
 ---
 
-<p align="center">Feito com ❤️ por João Sá</p>
+<p align="center">Feito por João Sá</p>
